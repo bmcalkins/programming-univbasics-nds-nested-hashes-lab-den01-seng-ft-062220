@@ -33,7 +33,7 @@ def literal_aoh
 end
 
 def aoh_lookup(aoh, row, key)
-  infinite_jest[1][:name]
+  infinite_jest[1]
 end
 
 def aoh_update(aoh, row, key, new_value)
