@@ -21,11 +21,12 @@ end
 
 def literal_aoh
   infinite_jest = 
-  [{:name=>"Dom Gately", :occupation=>"Live-in staff" }, 
+  [ {:name=>"Dom Gately", :occupation=>"Live-in staff" }, 
   {:name=>"Joelle van Dyne", :occupation=>"Radio Personality" }, 
   {:name=>"Pat Monteseian", :occupation=>"staff" }, 
   {:name=>"Kate Gompert", :occupation=>"None" }, 
-  {:name=>"Bruce Green", :occupation=>"Fan of Mildred"}]
+  {:name=>"Bruce Green", :occupation=>"Fan of Mildred" }
+  ]
   
   
   # Using Array literal syntax only, build a nested array that uses the data in
