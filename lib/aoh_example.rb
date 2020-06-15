@@ -20,7 +20,7 @@ def assembled_aoh
 end
 
 def literal_aoh
-  infinite_jest = [ { :name =>" Dom Gately", :occupation => "Live-in staff" } :name =>"Joelle van Dyne ", :occupation => "Radio Personality"
+  infinite_jest = [ { :name =>" Dom Gately", :occupation => "Live-in staff" } :name =>"Joelle van Dyne ", :occupation => "Radio Personality" :name =>"Pat Monteseian ", :occupation => "staff":name =>"Kate Gompert", :occupation => "None":name =>"Bruce Green", :occupation => "Fan of Mildred"
     
    
     ]
